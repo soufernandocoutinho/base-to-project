@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/soufernandocoutinho/base-to-project)
 ![GitHub last commit](https://img.shields.io/github/last-commit/soufernandocoutinho/base-to-project)
 
-# 📘 Manual de Prompts para Criar Landing Page com SEO
+## 📘 Manual de Prompts para Criar Landing Page com SEO usando IA
 
 ## 1. Prompt inicial — Estrutura base
 ```

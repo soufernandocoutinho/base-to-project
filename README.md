@@ -94,3 +94,23 @@ Crie um checklist de SEO e performance para validar a landing page:
 - Velocidade de carregamento otimizada  
 - CTA visível e direto  
 ```
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas!  
+Se você quiser melhorar este projeto, siga estes passos:
+
+1. Faça um fork do repositório
+2. Crie uma nova branch (`git checkout -b feature/YourFeature`)
+3. Faça suas alterações
+4. Comite suas mudanças (`git commit -m "feat: add new feature"`)
+5. Faça o push para a branch (`git push origin feature/YourFeature`)
+6. OAbra um Pull Request
+
+### Diretrizes
+
+- Mantenha as mensagens de commit claras e descritivas (use [Conventional Commits](https://www.conventionalcommits.org/))
+- Garanta que o código esteja bem formatado e documentado
+- Adicione testes ou exemplos, se aplicável
+- Seja respeitoso e construtivo nas discussões
+
+Obrigado por ajudar a melhorar este projeto!

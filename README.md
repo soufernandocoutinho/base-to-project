@@ -27,7 +27,7 @@ Divida em partes/seções se necessário.
 ## 2. Prompt para inserir conteúdo fornecido
 ```
 Aqui está o conteúdo fornecido pelo profissional:  
-[COLE O TEXTO AQUI]
+[ESCREVA O TEXTO AQUI. EXEMPLO: "Crie uma landing page completa para um [ESTABELECIMENTO/PROFISSIIONAL] chamada [NOME]. Cores: [COLOQUE AS CORES DA MARCA]. WhatsApp: [NÚMERO]. Mensagem: quero fazer um agendamento. Inclua copy, imagens, layout moderno, movimentos suaves e versão para celular. Entregue somente o arquivo HTML completo para baixar e subir no NextGo Sites."]
 
 Use esse conteúdo para preencher a landing page, mantendo títulos claros (H1, H2, H3), parágrafos objetivos e CTAs fortes.  
 Adapte o texto para SEO, sem perder naturalidade.  

@@ -96,7 +96,7 @@ MODO AUDITORIA CRO: avalie criticamente esta página e identifique o que precisa
 |---|---|
 | `MANUAL.md` | Este manual de utilização |
 | `PROFISSIONAL_CRIADOR_DE_LANDPAGE_COMPLETO.txt` | Prompt completo usado como referência principal pelo projeto |
-| `README.md` | Prompt extra que auxilia o uso do manual |
+| `PROMPTS_SEO.md` | Prompt extra que auxilia o uso do manual |
 
 ## 🤝 Contribuindo
 

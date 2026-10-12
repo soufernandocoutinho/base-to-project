@@ -92,7 +92,8 @@ Crie um checklist de SEO e performance para validar a landing page:
 - Schema Markup implementado  
 - Responsividade testada  
 - Velocidade de carregamento otimizada  
-- CTA visível e direto  
+- CTA visível e direto
+- Avalie criticamente esta página e identifique o que precisa melhorar antes de eu divulgar.  
 ```
 ## 🤝 Contribuindo
 

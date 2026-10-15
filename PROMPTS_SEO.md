@@ -10,7 +10,7 @@
 
 ## 📘 Manual de Prompts para Criar Landing Page com SEO usando IA
 
-## 1. Prompt inicial — Estrutura base
+## 1. Prompt inicial — Estrutura base (Obrigatório)
 ```
 Quero que você crie um código HTML usando Bootstrap para uma landing page moderna.  
 O conteúdo será fornecido por mim em seguida.  
@@ -24,10 +24,10 @@ Divida em partes/seções se necessário.
 
 ---
 
-## 2. Prompt para inserir conteúdo fornecido
+## 2. Prompt para inserir conteúdo fornecido (Obrigatório)
 ```
 Aqui está o conteúdo fornecido pelo profissional:  
-[ESCREVA O TEXTO AQUI. EXEMPLO: "Crie uma landing page completa para um [ESTABELECIMENTO/PROFISSIIONAL] chamada [NOME]. Cores: [COLOQUE AS CORES DA MARCA]. WhatsApp: [NÚMERO]. Mensagem: quero fazer um agendamento. Inclua copy, imagens, layout moderno, movimentos suaves e versão para celular. Entregue somente o arquivo HTML completo para baixar e subir no NextGo Sites."]
+[ESCREVA O BRIEFING DA LANDING PAGE AQUI]
 
 Use esse conteúdo para preencher a landing page, mantendo títulos claros (H1, H2, H3), parágrafos objetivos e CTAs fortes.  
 Adapte o texto para SEO, sem perder naturalidade.  
@@ -35,18 +35,19 @@ Adapte o texto para SEO, sem perder naturalidade.
 
 ---
 
-## 3. Prompt para otimização de SEO
+## 3. Prompt para otimização de SEO (Obrigatório)
 ```
 Otimize o código HTML gerado para SEO:  
 - Inclua meta tags relevantes (description, keywords, og:title, og:description, og:image).  
 - Estruture URLs amigáveis nos exemplos de links.  
 - Adicione Schema Markup (FAQ ou Service) em JSON-LD.  
-- Garanta que os títulos e subtítulos contenham palavras-chave estratégicas.  
+- Garanta que os títulos e subtítulos contenham palavras-chave estratégicas.
+- [COLE JUNTO COM O CÓDIGO AS TAGS DO GOOGLE E O PIXEL DO FACEBOOK]  
 ```
 
 ---
 
-## 4. Prompt para dividir em seções
+## 4. Prompt para dividir em seções (se necessário)
 ```
 Divida a landing page em seções:  
 - Hero (título principal, subtítulo, CTA)  
@@ -59,7 +60,7 @@ Cada seção deve estar em `<section>` com classes Bootstrap adequadas.
 
 ---
 
-## 5. Prompt para revisão técnica
+## 5. Prompt para revisão técnica (Obrigatório)
 ```
 Revise o código HTML final:  
 - Verifique se está semanticamente correto.  
@@ -84,7 +85,7 @@ Cada parte deve ser entregue separadamente em blocos de código.
 
 ---
 
-## 7. Prompt para checklist final
+## 7. Prompt para checklist final (Obrigatório)
 ```
 Crie um checklist de SEO e performance para validar a landing page:  
 - Títulos e subtítulos com palavras-chave  

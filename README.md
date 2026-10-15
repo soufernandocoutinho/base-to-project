@@ -1,4 +1,4 @@
-# 🚀 Base to Project — Guia Sites IA NextGo
+# 🚀 Guia Sites IA NextGo
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Bootstrap](https://img.shields.io/badge/framework-Bootstrap-blue)
